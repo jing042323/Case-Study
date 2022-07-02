@@ -23,7 +23,7 @@ $$ -->
 y_i\ =
 \begin{cases}
 1, &if\ \CTR_i\ in\ period\ t\ from\ 11\ to\ 30 > average\ CTR\\
-0, &othersie
+0, &otherwise
 \end{cases}
 $$ --> 
 
